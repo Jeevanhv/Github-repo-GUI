@@ -1,0 +1,12 @@
+1: archived
+2: backlog
+3: bug
+4: bugbash
+5: depedency
+6: documentation
+7: enhancement
+8: feature request
+9: help wanted
+10: next-point-release
+11: pending-pr
+12: question
