@@ -1,0 +1,2 @@
+# Github-repo-GUI
+In this user interface it allows a user to enter the github-repo-url and get the details of that particular repository like list of Languages used ,list of Open Issues ,list of Pull Requests, Repo Stats(open issues count and pr count) and Label's from open issue. User's can even enter their active E-mail id and subscribe and send the entire Repo details to all the subscribed mail ids with Send mail button.Use keyring to keep your password secure from others.
